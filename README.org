@@ -1,0 +1,9 @@
+* cl-parser-combinators
+
+An experimental implementation of parser combinators in Common Lisp
+
+|---------+-----------------------------------------------------------|
+| source  | git:https://github.com/Ramarren/cl-parser-combinators.git |
+| commit  | 9c7569a                                                   |
+| systems | cl-parser-combinators                                     |
+|---------+-----------------------------------------------------------|
